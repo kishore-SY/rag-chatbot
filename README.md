@@ -134,11 +134,13 @@ streamlit run app.py
 ---
 
 
+## 📸 Screenshots
+
 ### Login Page
-![Login Page](screenshots/login-page.png)
+![Login Page](./screenshots/login-page.png)
 
 ### Chat Interface
-![Chat Interface](screenshots/chat-page.png)
+![Chat Interface](./screenshots/chat-page.png)
 
 
 ---
