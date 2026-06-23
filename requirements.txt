@@ -6,5 +6,4 @@ pypdf
 python-dotenv
 google-generativeai
 sentence-transformers
-numpy
-bcrypt
+numpybcrypt==4.0.1
